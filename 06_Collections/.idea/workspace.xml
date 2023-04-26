@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d05ca1bd-4312-4289-8b8e-c90d83e1eb3c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../14_Flow/LottoGame/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_Functions/homework/out/production/homework/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../04_Functions/homework/out/production/homework/MainKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_Functions/homework/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../04_Functions/homework/src/main/kotlin/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_ConditionalExpressions_Loops/Homework1/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_ConditionalExpressions_Loops/Homework2/PracticalWork/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../05_ConditionalExpressions_Loops/Homework2/PracticalWork/src/main/kotlin/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_ConditionalExpressions_Loops/Homework2/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_ConditionalExpressions_Loops/Homework3/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/out/production/homework/MainKt$main$$inlined$sortedBy$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/homework/out/production/homework/MainKt$main$$inlined$sortedBy$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/out/production/homework/MainKt$main$$inlined$sortedBy$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/homework/out/production/homework/MainKt$main$$inlined$sortedBy$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/out/production/homework/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/homework/out/production/homework/MainKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/homework/src/main/kotlin/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08_OOP1/workhome/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../08_OOP1/workhome/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08_OOP1/workhome/src/main/kotlin/NatureReserve.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../08_OOP1/workhome/src/main/kotlin/NatureReserve.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10_OOP3/WorkHome/out/production/WorkHome/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../10_OOP3/WorkHome/out/production/WorkHome/MainKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10_OOP3/WorkHome/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../10_OOP3/WorkHome/src/main/kotlin/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../14_Flow/LottoGame/out/production/LottoGame/Generator$randomNumber$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../14_Flow/LottoGame/out/production/LottoGame/Generator$randomNumber$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../14_Flow/LottoGame/out/production/LottoGame/Generator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../14_Flow/LottoGame/out/production/LottoGame/Generator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../14_Flow/LottoGame/out/production/LottoGame/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../14_Flow/LottoGame/out/production/LottoGame/MainKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../14_Flow/LottoGame/out/production/LottoGame/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/../14_Flow/LottoGame/out/production/LottoGame/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../14_Flow/LottoGame/out/production/LottoGame/Players$getPlayers$1$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../14_Flow/LottoGame/out/production/LottoGame/Players$getPlayers$1$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../14_Flow/LottoGame/out/production/LottoGame/Players$getPlayers$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../14_Flow/LottoGame/out/production/LottoGame/Players$getPlayers$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../14_Flow/LottoGame/out/production/LottoGame/Players$getPlayers$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../14_Flow/LottoGame/out/production/LottoGame/Players$getPlayers$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../14_Flow/LottoGame/out/production/LottoGame/Players$startGame$1$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../14_Flow/LottoGame/out/production/LottoGame/Players$startGame$1$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../14_Flow/LottoGame/out/production/LottoGame/Players$startGame$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../14_Flow/LottoGame/out/production/LottoGame/Players$startGame$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../14_Flow/LottoGame/out/production/LottoGame/Players.class" beforeDir="false" afterPath="$PROJECT_DIR$/../14_Flow/LottoGame/out/production/LottoGame/Players.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../14_Flow/LottoGame/src/main/kotlin/Generator.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../14_Flow/LottoGame/src/main/kotlin/Generator.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../14_Flow/LottoGame/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../14_Flow/LottoGame/src/main/kotlin/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../14_Flow/LottoGame/src/main/kotlin/Player.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../14_Flow/LottoGame/src/main/kotlin/Player.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../14_Flow/LottoGame/src/main/kotlin/Players.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../14_Flow/LottoGame/src/main/kotlin/Players.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IJkx9ylAVIq733xnVyqZ208BoO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "E:/SkillBox777/dpo_kotlin/07_ClassesAndObjects"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d05ca1bd-4312-4289-8b8e-c90d83e1eb3c" name="Changes" comment="" />
+      <created>1669907317833</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669907317833</updated>
+    </task>
+    <servers />
+  </component>
+</project>
